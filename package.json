@@ -1,5 +1,5 @@
 {
-  "name": "@flashbots/ethers-provider-bundle",
+  "name": "@0xdapper/ethers-provider-bundle",
   "version": "0.6.1",
   "description": "",
   "main": "build/index.js",
@@ -35,6 +35,6 @@
   "peerDependencies": {
     "ethers": "5.7.2"
   },
-  "dependencies": {
-  }
+  "dependencies": {},
+  "private": false
 }
