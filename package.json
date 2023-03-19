@@ -13,7 +13,8 @@
     "build": "npx tsc",
     "clean": "rm -rf build/",
     "prepare": "npm run clean && npm run build",
-    "lint": "npx eslint src"
+    "lint": "npx eslint src",
+    "postinstall": "npm r build"
   },
   "author": "",
   "license": "ISC",
